@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <!-->这里的jdbcDriver未必对，但是可以作为标签参考</!-->
+<jdbcDriver>com.mysql.cj.jdbc.Driver</jdbcDriver>
+<dbUrl>jdbc:mysql://localhost:3306/student?serverTimezone=GMT</dbUrl>
+<dbUser>root</dbUser>
+<dbPassword>20163933</dbPassword>
+</config>

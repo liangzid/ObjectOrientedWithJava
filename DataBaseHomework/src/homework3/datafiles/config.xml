@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+<jdbcDriver>org.apache.derby.jdbc.ClientDriver</jdbcDriver>
+<dbUrl>jdbc:derby://localhost:1527/student;create=true</dbUrl>
+<dbUser>liangzi</dbUser>
+<dbPassword>20163933</dbPassword>
+</config>
